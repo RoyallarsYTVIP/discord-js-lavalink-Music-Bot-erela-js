@@ -9,7 +9,7 @@
     "ascii-table": "0.0.9",
     "bufferutil": "^4.0.3",
     "canvacord": "^5.0.8",
-    "canvas": "^2.6.1",
+    "canvas": "^3.0.0",
     "colors": "^1.4.0",
     "radio-browser": "^2.1.6",
     "common-tags": "^1.8.0",
